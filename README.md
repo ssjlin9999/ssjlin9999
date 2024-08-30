@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/ssjlin9999"><img src="https://img.shields.io/github/followers/ssjlin9999.svg?label=GitHub&style=social" alt="GitHub"></a>
+
+![](https://komarev.com/ghpvc/?username=ssjlin9999&color=blue&style=flat-square)
